@@ -7,7 +7,6 @@ e.last_name,
 t.title,
 t.from_date,
 t.to_date
-
 -- INTO retirement_titles
 FROM employees as e
 INNER JOIN titles as t 
