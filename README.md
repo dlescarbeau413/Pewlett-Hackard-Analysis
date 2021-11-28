@@ -20,14 +20,14 @@ Analysis:
 •	From the list of titles 64% of the retirees are either Senior Engineers or have the title Senior Staff.  This means that there will have to be a lot of hiring for senior positions within the company.
 
 
-•	We are also able to figure out which departments will be hit the most  if we make a new table with the unique titles table and include the department name. We can refactor the query we made in steps 15-21 in deliverable 1 and instead of counting and grouping by titles, we use the count function and the group by function on the department name. Now we can also get a sense on which departments will get hit the most. After coming up with the query,  my results showed the two departments that are getting hit the most will be the Development department and the production department. This wasnt required but i was curious to see which departments were losing the most employees
+•	We are also able to figure out which departments will be hit the most  if we make a new table with the unique titles table and include the department name. We can refactor the query we made in steps 15-21 in deliverable 1 and instead of counting and grouping by titles, we use the count function and the group by function on the department name. Now we can also get a sense on which departments will get hit the most. After coming up with the query,  my results showed the two departments that are getting hit the most will be the Development department and the production department. This wasnt required but I was curious to see which departments were losing the most employees
 
  ![](Resources/retiremnt_by_dept.PNG)
 
 Summary:
 
 
-When the retirees start to leave leave there will be over 90,000 positions that will need to be filled within the company according to the unique titles query that we constructed. 
+When the retirees start to leave there will be over 90,000 positions that will need to be filled within the company according to the unique titles query that we constructed. 
 
 ![](Resources/Count%20unique%20titles.PNG)
 
